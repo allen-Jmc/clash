@@ -1,11 +1,8 @@
 payload:
    - DOMAIN-KEYWORD,groq
-   - DOMAIN-KEYWORD,grok
    - DOMAIN-KEYWORD,labs
    - DOMAIN-SUFFIX,googleapis.com
    - DOMAIN-SUFFIX,groq.com
-   - DOMAIN-SUFFIX,x.ai
-   - DOMAIN-SUFFIX,grok.com
    - DOMAIN-SUFFIX,meta.ai
    - DOMAIN-SUFFIX,metademolab.com
    - DOMAIN-SUFFIX,perplexity.ai
